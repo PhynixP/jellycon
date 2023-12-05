@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-08 14:40+0000\n"
-"Last-Translator: SinecKers <yasar.ylmz.yt@gmail.com>\n"
+"PO-Revision-Date: 2023-12-03 15:30+0000\n"
+"Last-Translator: queeup <queeup@zoho.com>\n"
 "Language-Team: Turkish <https://translate.jellyfin.org/projects/jellycon/"
 "jellycon/tr/>\n"
 "Language: tr\n"
@@ -17,7 +17,7 @@ msgstr "Baştan başla"
 
 msgctxt "#30236"
 msgid "Force transcode h265 (hevc)"
-msgstr "H265 (hevc) kodunu dönüştürmeye zorla"
+msgstr "H265 (hevc) kod dönüştürmeyi zorla"
 
 msgctxt "#30235"
 msgid "Episodes"
@@ -343,7 +343,7 @@ msgstr "Port"
 
 msgctxt "#30239"
 msgid "Force transcode mpeg2"
-msgstr "mpeg2 dönüştürmeyi zorla"
+msgstr "mpeg2 kod dönüştürmeyi zorla"
 
 msgctxt "#30241"
 msgid "Force transcode mpeg4"
@@ -463,3 +463,23 @@ msgstr "Bölümler - Son Eklenen"
 msgctxt "#30275"
 msgid "Force Transcode"
 msgstr "Kodlamaya Zorla"
+
+msgctxt "#30354"
+msgid "Go To Series"
+msgstr "Dizilere Git"
+
+msgctxt "#30443"
+msgid "Quick Connect"
+msgstr "Hızlı Bağlan"
+
+msgctxt "#30398"
+msgid "Refresh Jellyfin Metadata"
+msgstr "Jellyfin Meta Verisini Yenile"
+
+msgctxt "#30444"
+msgid "Login using Quick Connect"
+msgstr "Hızlı Bağlan'ı kullanarak oturum aç"
+
+msgctxt "#30365"
+msgid "Manual Login"
+msgstr "El İle Oturum Aç"
